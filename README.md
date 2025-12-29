@@ -55,3 +55,5 @@ This project replicates the look and feel of Netflix’s landing page and adapts
 Gulfam Khan
 B.Tech in Computer Science
 GitHub: https://github.com/gulfamkhan77309
+
+⚠️ Disclaimer: This project is a UI clone built for educational purposes only.
