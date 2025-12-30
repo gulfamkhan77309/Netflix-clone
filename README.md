@@ -6,7 +6,7 @@ This project replicates the look and feel of Netflix’s landing page and adapts
 ---
 
 ## 🚀 Live Demo
-👉 https://gulfamkhan77309.github.io/Netflix-clone/
+👉  https://gulfamkhan77309.github.io/Netflix-ui-clone/
 
 ---
 
